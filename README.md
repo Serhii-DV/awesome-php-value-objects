@@ -5,7 +5,7 @@ Awesome list of various PHP value objects.
 ## Repositories
 
 
-**[cultuurnet/valueobjects](https://github.com/cultuurnet/valueobjects) ** `PHP 5.5`
+**[cultuurnet/valueobjects](https://github.com/cultuurnet/valueobjects)** `PHP 5.5`
 
 *This is a fork of the `nicolopignatelli/valueobjects` library which was removed from GitHub. Not maintained.*
 
