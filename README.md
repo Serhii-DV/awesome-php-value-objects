@@ -63,9 +63,46 @@ Awesome list of various PHP value objects.
  - **Data Structure**: ArrayList, Dictionary;
  - **DateTime**: TimestampValue;
  - **Development**: AssetsUrl, Environment, SemanticVersioning;
+ - **E-commerce**: Vat;
  - **Identity**: Base64Encoded, Md5, Sha1, Uuid;
- - **Geography**: Coordinate, CountryCode, LanguageCode, Vat;
+ - **Geography**: Coordinate, CountryCode, LanguageCode;
  - **Money**: Currency, 
  - **Person**: Birthday, Gender;
  - **Scalar**: BooleanValue, IntegerNumber, StringLiteral;
  - **Web**: Device, DomainName, Email, EmailType, GACode, HttpMethod, Ip, Location, Pathname, PortNumber, RealPath, RelativePath, Url.
+
+
+**[biberlabs/ddd-embeddables](https://github.com/biberlabs/ddd-embeddables)** `PHP 5.6`
+
+*A collection of reusable value objects written in PHP and targeting versions 5.6 and above.*
+
+ - **Color**: Color;
+ - **DateTime**: DateRange;
+ - **Geography**: GeoPoint;
+ - **Person**: Fullname;
+ - **Web**: EmailAddress, IpAddress, IpRange.
+
+
+**[dave-redfern/somnambulist-value-objects](https://github.com/dave-redfern/somnambulist-value-objects)** `PHP 7.0`
+
+*This library provides an abstract base class that provides a basic equality test and foundation for your VOs along with a couple of basic types.*
+
+ - **Auth**: PublicPrivateKey;
+ - **DateTime**: DateTime, TimeZone;
+ - **Geography**: Coordinate, Country, CountryCode, CountryCodeMappings, Srid;
+ - **Identity**: Aggregate, EmailAddress, Uuid;
+ - **Measure**: Area, AreaUnit, Distance, DistanceUnit;
+ - **Money**: Currency, CurrencyCode, CurrencyCodeMappings, Money;
+ - **Person**: PhoneNumber;
+ - **Web**: IPv4Address, IPv6Address, IpAddress, Url;
+
+
+**[Aerendir/PHPValueObjects](https://github.com/Aerendir/PHPValueObjects)** `PHP 5.6`
+
+*A set of PHP Value Objects to manage simple and composite values.*
+
+ - **Address**: Address;
+ - **Money**: CurrencyExchangeRate, Money;
+ - **Person**: Phone;
+ - **E-commerce**: Payment, Tax, VatNumber, VatRate;
+ - **Web**: Email, Ip, Uri;
