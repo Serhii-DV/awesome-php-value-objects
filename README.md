@@ -2,6 +2,18 @@
 
 Awesome list of various PHP value objects.
 
+## Table of contents
+
+ * cultuurnet/valueobjects
+ * Antnee/PHP-Value-Objects
+ * bruli/php-value-objects
+ * danitome24/php-valueobject
+ * tanigami/value-objects-php
+ * g4code/value-object
+ * biberlabs/ddd-embeddables
+ * dave-redfern/somnambulist-value-objects
+ * Aerendir/PHPValueObjects
+
 ## Repositories
 
 
