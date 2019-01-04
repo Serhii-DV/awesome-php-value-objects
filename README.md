@@ -13,6 +13,15 @@ Awesome list of various PHP value objects.
  * biberlabs/ddd-embeddables
  * dave-redfern/somnambulist-value-objects
  * Aerendir/PHPValueObjects
+ * gws/php-valueobjects
+ * apioo/psx-uri
+ * vasildakov/postcode
+ * randock/value-object
+ * funeralzone/valueobjects
+ * smartemailing/types
+ * nepada/email-address
+ * wmde/email-address
+ * wmde/Euro
 
 ## Repositories
 
@@ -134,3 +143,97 @@ Awesome list of various PHP value objects.
 | Person | Phone |
 | E-commerce | Payment, Tax, VatNumber, VatRate |
 | Web | Email, Ip, Uri |
+
+
+**[gws/php-valueobjects](https://github.com/gws/php-valueobjects)** `PHP 5.4`
+
+*PHP value objects (PoEAA)*
+
+| Category | Value Objects |
+|----------|---------------|
+| DateTime | DateRange, DateTimeRange |
+| Money | Money |
+| Web | Ip, Mac |
+
+
+**[apioo/psx-uri](https://github.com/apioo/psx-uri)** `PHP 7.0`
+
+*URI, URL and URN immutable value objects*
+
+| Category | Value Objects |
+|----------|---------------|
+| Web | Uri, Url, Urn |
+
+
+**[vasildakov/postcode](https://github.com/vasildakov/postcode)** `PHP 5.4`
+
+*Value Object that represents an UK postcode*
+
+| Category | Value Objects |
+|----------|---------------|
+| Geography | Postcode |
+
+
+**[randock/value-object](https://github.com/randock/value-object)** `PHP 7.1`
+
+*Value Objects*
+
+| Category | Value Objects |
+|----------|---------------|
+| Geography | Country, Nationality |
+| Money | Currency, ExchangeRate, Money |
+| Person | Phone |
+
+
+**[funeralzone/valueobjects](https://github.com/funeralzone/valueobjects)** `PHP 7.1`
+
+*This library only deals with fundamental values (scalars)*
+
+| Category | Value Objects |
+|----------|---------------|
+| Scalar | Nullable, Set, NonNullSet, NullableSet |
+
+
+**[smartemailing/types](https://github.com/smartemailing/types)** `PHP 7.1`
+
+*Missing data types for PHP 7.1. Highly extendable, production tested.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Address | Address |
+| Company | CompanyRegistrationNumber |
+| DateTime | DateTimeRange, Duration, TimeUnit |
+| Enums | LawfulBasisForProcessing, CurrencyCode, FieldOfApplication, TimeUnit, Relation |
+| Identity | Guid, Iban |
+| Geography | CountryCode, ZipCode |
+| Money | CurrencyCode, Price, SwiftBic, VatId |
+| Person | PhineNumber, FieldOfApplication |
+| Scalar | JsonString, Hex32, Base64String, Quantity, Part, ReLUValue, SigmoidValue, UniqueIntArray, UniqueStringArray |
+| Web | Domain, Emailaddress, IpAddress, UrlType, Port, LoginCredentials |
+
+
+**[nepada/email-address](https://github.com/nepada/email-address)** `PHP 7.1`
+
+*Email address value object.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Web | EmailAddress |
+
+
+**[wmde/email-address](https://github.com/wmde/email-address)** `PHP 7.0`
+
+*Email Address value object written in PHP 7.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Web | EmailAddress |
+
+
+**[wmde/Euro](https://github.com/wmde/Euro)** `PHP 7.1`
+
+*Value Object that represents a positive amount of Euro.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Money | Euro |
