@@ -22,6 +22,9 @@ Awesome list of various PHP value objects.
  * nepada/email-address
  * wmde/email-address
  * wmde/Euro
+ * Crell/HtmlModel
+ * spatie/data-transfer-object
+ * Litipk/php-bignumbers
 
 ## Repositories
 
@@ -237,3 +240,30 @@ Awesome list of various PHP value objects.
 | Category | Value Objects |
 |----------|---------------|
 | Money | Euro |
+
+
+**[Crell/HtmlModel](https://github.com/Crell/HtmlModel)** `PHP 7.1`
+
+*Domain value objects for modeling HTML pages.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Development | AttributeBag, BaseElement, HeadElement, HtmlFragment, HtmlPage, KeywordsMetaElement, LinkElement, MetaCharsetElement, MetaElement, MetaRefreshElement, NamedMetaElement, ScriptElement, StyleElement, StyleLinkElement |
+
+
+**[spatie/data-transfer-object](https://github.com/spatie/data-transfer-object)** `PHP 7.1`
+
+*Data transfer objects with batteries included.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Development | DataTransferObject, DataTransferObjectCollection |
+
+
+**[Litipk/php-bignumbers](https://github.com/Litipk/php-bignumbers)** `PHP 7.0`
+
+*A robust library to handle immutable big numbers inside PHP applications.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Scalar | Decimal |
