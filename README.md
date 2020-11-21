@@ -25,6 +25,7 @@ Awesome list of various PHP value objects.
  * Crell/HtmlModel
  * spatie/data-transfer-object
  * Litipk/php-bignumbers
+ * spryker/decimal-object
 
 ## Repositories
 
@@ -263,6 +264,14 @@ Awesome list of various PHP value objects.
 **[Litipk/php-bignumbers](https://github.com/Litipk/php-bignumbers)** `PHP 7.0`
 
 *A robust library to handle immutable big numbers inside PHP applications.*
+
+| Category | Value Objects |
+|----------|---------------|
+| Scalar | Decimal |
+
+**[spryker/decimal-object](https://github.com/spryker/decimal-object)** `PHP 7.2, PHP 8`
+
+*A robust decimal value object to handle e.g. monitary values with high precision.*
 
 | Category | Value Objects |
 |----------|---------------|
