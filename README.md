@@ -269,7 +269,7 @@ Awesome list of various PHP value objects.
 |----------|---------------|
 | Scalar | Decimal |
 
-**[spryker/decimal-object](https://github.com/spryker/decimal-object)** `PHP 7.2, PHP 8`
+**[php-collective/decimal-object](https://github.com/php-collective/decimal-object)** `PHP 8.1`
 
 *A robust decimal value object to handle e.g. monitary values with high precision.*
 
