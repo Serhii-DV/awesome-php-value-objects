@@ -25,7 +25,7 @@ Awesome list of various PHP value objects.
  * Crell/HtmlModel
  * spatie/data-transfer-object
  * Litipk/php-bignumbers
- * spryker/decimal-object
+ * php-collective/decimal-object
 
 ## Repositories
 
